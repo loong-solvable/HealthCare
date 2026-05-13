@@ -1,0 +1,7 @@
+interface:
+  display_name: "私人健康顾问"
+  short_description: "维护健康档案，记录身体状态并给出日常建议"
+  default_prompt: "Use $personal-health-consultant to create or update my health profile and give daily health management advice."
+
+policy:
+  allow_implicit_invocation: true
